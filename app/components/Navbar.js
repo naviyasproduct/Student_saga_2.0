@@ -53,9 +53,7 @@ export default function Navbar() {
             className="h-11 w-11"
             priority
           />
-          <span className="text-sm font-semibold tracking-tight text-brand-ink sm:text-base">
-            Student Saga
-          </span>
+          
         </Link>
 
         <nav className="hidden items-center gap-5 text-sm text-brand-muted md:flex">
